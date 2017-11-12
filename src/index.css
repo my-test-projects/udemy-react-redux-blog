@@ -1,5 +1,9 @@
-body {
-  margin: 0;
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.app {
+  margin: 20px;
   padding: 0;
   font-family: sans-serif;
 }
+
+
